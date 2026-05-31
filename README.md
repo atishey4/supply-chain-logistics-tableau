@@ -2,11 +2,11 @@
 
 ## Download
 
-📥 [Download the Tableau Workbook (.twbx)](./Supply_Chain_Logistics_Dashboard.twbx)
+📥 [Download the Tableau Workbook (.twbx)](./supply%20chain%20logistics.twbx)
 
 ## Screenshots
 
-![Supply Chain Dashboard](./screenshots/dashboard.png)
+![Supply Chain Dashboard](./screenshots/Screenshot%202026-05-31%20135151.png)
 
 ## Overview
 This Tableau project monitors logistics performance and inventory efficiency to help operations teams reduce delays, control costs, and improve service levels.
